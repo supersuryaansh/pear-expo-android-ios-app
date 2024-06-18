@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
-    "bare-dev": "^0.7.12",
+    "bare-dev": "^0.11.1",
     "which": "^4.0.0"
   },
   "private": true
